@@ -57,5 +57,5 @@ Drop Party is licensed under the GNU General Public License v3.0 0
 * I may not add feature you request, don't go raging about it.
 * I am allowed to report and get reviews that are low rating deleted, if the reporter hasn't contacted me before with his problem.
 
-## This Project is  ComingSoon to PMMP
+## This Project is on poggit
 
