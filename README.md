@@ -2,7 +2,7 @@
 Drop Party is a simple, easy to use plugin that lets you create drop parties on your server.
 
 ## Overview
-GKits are unique kits, which are mostly focused on improving donators gameplay. They usually are well-liked when using Custom Enchantment plugins and giving the GKits rare enchantments.
+Drop Party is a simple, easy to use plugin that lets you create drop parties on your server.
 
 ![DropParty](https://github.com/VirulCreator/DropParty/blob/master/media/dropparty.png)
 
@@ -24,6 +24,9 @@ GKits are unique kits, which are mostly focused on improving donators gameplay. 
 
 ## Download
  [PoggitCI](https://poggit.pmmp.io) < ComingSoon
+
+## The License
+Drop Party is licensed under the GNU General Public License v3.0 0 
 
 ### TOS:
 * You may not upload, distribute or share this plugin with anyone else but yourself, if they have asked for the plugin, link the resource.
