@@ -27,7 +27,7 @@ Drop Party is a simple, easy to use plugin that lets you create drop parties on 
 
 ## The License
 Drop Party is licensed under the GNU General Public License v3.0 0 
----
+
 ### TOS:
 * You may not upload, distribute or share this plugin with anyone else but yourself, if they have asked for the plugin, link the resource.
 * You may not redistribute source code, any part of it or decompile it
@@ -36,4 +36,4 @@ Drop Party is licensed under the GNU General Public License v3.0 0
 * I am allowed to report and get reviews that are low rating deleted, if the reporter hasn't contacted me before with his problem.
 
 ## This Project is  ComingSoon to PMMP
----
+
