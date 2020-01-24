@@ -4,6 +4,9 @@ Drop Party is a simple, easy to use plugin that lets you create drop parties on 
 ## Overview
 Drop Party is a simple, easy to use plugin that lets you create drop parties on your server.
 
+>- The automatic drop party feature isn't fully tested, let me know if it doesn't work!
+>- The minimum players limit only applies to automatic drop parties, not manually started ones.
+
 ![DropParty](https://github.com/VirulCreator/DropParty/blob/master/media/dropparty.png)
 
 ---
