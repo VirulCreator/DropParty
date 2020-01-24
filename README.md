@@ -25,6 +25,28 @@ Drop Party is a simple, easy to use plugin that lets you create drop parties on 
 ## Download
  [PoggitCI](https://poggit.pmmp.io) < ComingSoon
 
+---
+## Config
+```yaml
+---
+level: "world"
+coordinates: "261,68,227"
+items: ["1:2", 42, 22, 41]
+duration: 30 #How long is it going on for
+time: 60 #in seconds
+times: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 60] #what time do u want countdown to annouce it
+
+messages:
+  started: "§a[§6Drop§bParty§a] §dHas started! Do /spawn to get the items at the §5DropParty"
+  ended: "§a[§6Drop§bParty§a] §dHas ended! Good game all."
+  starting: "§a[§6Drop§bParty§a] §dis starting in §5{time}."
+popup:
+  enabled: true
+  message: "§a[§6Drop§bParty§a] §dItems are dropping! §5Do /spawn to get those items!"
+...
+```
+---
+
 ## The License
 Drop Party is licensed under the GNU General Public License v3.0 0 
 
