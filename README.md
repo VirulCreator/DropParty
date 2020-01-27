@@ -7,6 +7,9 @@ Drop Party is a simple, easy to use plugin that lets you create drop parties on 
 >- The automatic drop party feature isn't fully tested, let me know if it doesn't work!
 >- The minimum players limit only applies to automatic drop parties, not manually started ones.
 
+[![](https://poggit.pmmp.io/shield.state/DropParty)](https://poggit.pmmp.io/p/DropParty)
+<a href="https://poggit.pmmp.io/p/DropParty"><img src="https://poggit.pmmp.io/shield.state/DropParty"></a>
+
 ![DropParty](https://github.com/VirulCreator/DropParty/blob/master/media/dropparty.png)
 
 ---
