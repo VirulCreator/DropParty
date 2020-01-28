@@ -2,7 +2,7 @@
 Drop Party is a simple, easy to use plugin that lets you create drop parties on your server.
 
 ## Overview
-Drop Party is a simple, easy to use plugin that lets you create drop parties on your server.
+Drop Party allows you to define an area at which a Drop Party will occur. Once a drop party starts (either automatically or manually) a countdown from 10 minute will take place, this gives players few minute to teleport to the Drop Party location. Once the countdown is over, the plugin will start dropping random items above them!
 
 >- The automatic drop party feature isn't fully tested, let me know if it doesn't work!
 >- The minimum players limit only applies to automatic drop parties, not manually started ones.
@@ -27,6 +27,13 @@ Drop Party is a simple, easy to use plugin that lets you create drop parties on 
 >- Let players teleport to drop parties
 >- All messages are configurable and can be easily changed
 ---
+
+## Setting up the plugin:
+
+* Place the plugin into the plugins folder of your server.
+* Restart or reload the server to load the plugin and generate a configuration file in /plugins_data/dropparty.
+* Edit the messages and default party settings. (OPTIONAL)
+* Reload the plugin with /reload
 
 ## Download
  [PoggitCI](https://poggit.pmmp.io) < ComingSoon
