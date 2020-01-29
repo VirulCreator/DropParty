@@ -2,7 +2,7 @@
 
 namespace VirulCreator\DropParty;
 
-use DropParty\tasks\DropPartyTask;
+use VirulCreator\DropParty\tasks\DropPartyTask;
 use pocketmine\item\Item;
 use pocketmine\math\Vector3;
 use pocketmine\plugin\PluginBase;
