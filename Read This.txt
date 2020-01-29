@@ -5,3 +5,5 @@ All i ask  if you wanna edit the plugin please dont change the author and claim 
 Example: Author: VirulCreator Edited Jake (And so on)
 
 Drop Party is licensed under the GNU General Public License v3.0
+
+Thanks in advanced.
